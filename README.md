@@ -66,4 +66,4 @@ diagram.
 
 ## RESULT 
      
-    Thus the line coding techniques were analyzed and observed and the graph is plotted.
+ Thus the line coding techniques were analyzed and observed and the graph is plotted.
