@@ -43,9 +43,11 @@ diagram.
 12. Use RESET switch for clear data observation if necessary. 
 
 13. Unipolar to Bipolar/Bipolar to Unipolar: 
-     a. connect NRZ-L signal from DCL-05 to the input post IN Unipolar to Bipolarand 
+
+      a. connect NRZ-L signal from DCL-05 to the input post IN Unipolar to Bipolarand 
         Observe the Bipolar output at the post OUT. 
-     b. Then connect bipolar output signal to the input post IN of Bipolar to Unipolarand 
+
+      b. Then connect bipolar output signal to the input post IN of Bipolar to Unipolarand 
         observe Unipolar out at post OUT.
 
 ## CIRCUIT DIAGRAM
@@ -64,4 +66,4 @@ diagram.
 
 ## RESULT 
      
-     Thus the line coding techniques were analyzed and observed and the graph is plotted.
+    Thus the line coding techniques were analyzed and observed and the graph is plotted.
