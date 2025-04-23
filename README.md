@@ -62,7 +62,13 @@ diagram.
 
 ## TABLE
 
+![WhatsApp Image 2025-04-23 at 16 17 27_347fa6a8](https://github.com/user-attachments/assets/af2a8a57-bee6-4fd6-ac1c-0c28c000524a)
+
+
 ## OUTPUT GRAPHS
+
+![WhatsApp Image 2025-04-23 at 16 15 21_4206d688](https://github.com/user-attachments/assets/ea41e64d-07e0-45ee-9216-0f298b4c6d10)
+
 
 ## RESULT 
      
